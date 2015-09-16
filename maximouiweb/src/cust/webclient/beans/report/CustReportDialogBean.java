@@ -34,7 +34,5 @@ public class CustReportDialogBean extends psdi.webclient.beans.report.ReportDial
 		log.info("runrequestpage-");
 		return super.runrequestpage();
 	}
-	
-	
-	
+		
 }
